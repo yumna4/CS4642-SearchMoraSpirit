@@ -1,11 +1,365 @@
-{"date": ["on Fri, 09/15/2017 - 23:02 \u00a0 by ", " "], "title": ["Maneuvering of balls to the victory!"]}
-{"date": ["on Thu, 04/26/2018 - 10:28 \u00a0 by ", " "], "credentials": ["Sponsored by : Millenium IT"], "title": ["\"We are the best\u201d Old Moras convinced. "]}
-{"date": ["on Thu, 04/26/2018 - 10:28 \u00a0 by ", " "], "credentials": ["Sponsored by : Millenium IT"], "title": ["\"We are the best\u201d Old Moras convinced. "]}
-{"date": ["on Tue, 12/25/2012 - 11:04 \u00a0 by ", " "], "credentials": ["Kasunika Gamage \u2013 under blue gold", "\nSunari Gnanathilaka \u2013 under red gold"], "title": ["MORA shined at the 9th Korea Cup Taekwondo Championship"]}
-{"date": ["on Mon, 06/16/2014 - 08:00 \u00a0 by ", " "], "title": ["Inter University Badminton Championship: UoM and USJP Win Gold "]}
-{"date": ["on Tue, 06/19/2018 - 23:36 \u00a0 by ", " "], "credentials": ["Sponsored By: Milllennium IT"], "title": ["Dinushki Premanath: The Champion Among Champions "]}
-{"date": ["on Mon, 05/25/2015 - 08:52 \u00a0 by ", " "], "title": ["IUC 2015 | Elle: It's The Ladies' Time To Shine"]}
-{"date": ["on Thu, 02/20/2014 - 21:26 \u00a0 by ", " "], "title": ["Yet Another Disappointing Day for Koreans at Katubedda"]}
-{"date": ["on Fri, 06/13/2014 - 23:58 \u00a0 by ", " "], "title": ["Battle of the Shuttles Begin\u2026."]}
-{"date": ["on Sat, 07/19/2014 - 23:59 \u00a0 by ", " "], "title": ["Colombo crush Kelaniya in Inter-University Cricket Finals"]}
-{"date": ["on Mon, 08/03/2015 - 17:41 \u00a0 by ", " "], "title": ["IUC 2015 | Volleyball: KEL Men and SJP Ladies Dictate the Arena"]}
+{"date": ["09/15/2017"], "title": ["Maneuvering of balls to the victory!"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Janani Kulasekara"]}
+{"date": ["08/24/2013"], "title": ["MORA SMASHES\u201913: Western Province Open Ranking Table Tennis Championship"], "sponsor": [""], "editor": [""], "author": ["em>Treshani Perera"]}
+{"date": ["09/05/2016"], "title": ["SLUG 2016 | Moratuwa Men Ruled the Badminton Courts Yet Again"], "sponsor": [""], "editor": ["Sachini Weerasinghe"], "author": ["Thakshal Ekanayake"]}
+{"date": ["11/18/2015"], "title": ["MORA SMASHES 2015 - The Inter University Table Tennis Championship"], "sponsor": [""], "editor": [""], "author": ["Samudika Weerasinghe"]}
+{"date": ["06/13/2014"], "title": ["Battle of the Shuttles Begin\u2026."], "sponsor": [""], "editor": [""], "author": ["Farazath Ahamed\\xa0"]}
+{"date": ["06/19/2018"], "title": ["Dinushki Premanath: The Champion Among Champions "], "sponsor": [""], "editor": [""], "author": ["Dewni Senevirathne"]}
+{"date": ["05/25/2015"], "title": ["IUC 2015 | Elle: It's The Ladies' Time To Shine"], "sponsor": [""], "editor": [""], "author": ["Ayoma Nilakshi"]}
+{"date": ["06/16/2014"], "title": ["Inter University Badminton Championship: UoM and USJP Win Gold "], "sponsor": [""], "editor": [""], "author": ["De Silva"]}
+{"date": ["09/03/2016"], "title": ["SLUG 2016 | Who will shoot the final goal?"], "sponsor": [""], "editor": ["Heshani Samarasekara"], "author": ["Gangani Sureka"]}
+{"date": ["02/20/2014"], "title": ["Yet Another Disappointing Day for Koreans at Katubedda"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["08/03/2015"], "title": ["IUC 2015 | Volleyball: KEL Men and SJP Ladies Dictate the Arena"], "sponsor": [""], "editor": [""], "author": ["Heshani Samarasekara"]}
+{"date": ["04/26/2018"], "title": ["\"We are the best\u201d Old Moras convinced. "], "sponsor": ["Millenium IT"], "editor": ["Janani Kulasekara"], "author": ["Amanda Kannangara"]}
+{"date": ["10/06/2013"], "title": ["Mora Soccer 7's 2013"], "sponsor": [""], "editor": [""], "author": ["em>Rukshan Maliq"]}
+{"date": ["06/24/2013"], "title": ["UMiSF in Full Swing"], "sponsor": [""], "editor": [""], "author": ["em>Rukshan Maliq"]}
+{"date": ["04/27/2013"], "title": ["SLUG CRICKET: Giant Killers Sabara, Met Their End From a Far Bigger Giant: MORA"], "sponsor": [""], "editor": [""], "author": ["Kantheepan Yogeeswaran"]}
+{"date": ["08/04/2014"], "title": ["Mora literally fighting their way to Taekwondo title."], "sponsor": [""], "editor": [""], "author": ["Nilakshi Ayoma"]}
+{"date": ["01/20/2013"], "title": ["Mora Sharks eliminate the mighty Wayamba Heroes"], "sponsor": [""], "editor": [""], "author": ["em>P.R. Senanayake"]}
+{"date": ["08/19/2016"], "title": ["SLUG 2016| Host Wayamba took the best out of it "], "sponsor": [""], "editor": [""], "author": ["Pavani Sithara"]}
+{"date": ["06/03/2018"], "title": ["Tournament opener ends in a thrilling tie "], "sponsor": ["Millennium IT"], "editor": ["Janani Kulasekara\\n"], "author": ["G.Ganeshaaraj\\n"]}
+{"date": ["08/31/2014"], "title": ["Elle Championship Results Up In the Air"], "sponsor": [""], "editor": [""], "author": ["Sapuni Hettiarachchi"]}
+{"date": ["03/17/2013"], "title": ["UOC Sports Festival - Invitational Basketball and Badminton Tournaments"], "sponsor": [""], "editor": [""], "author": ["Sachintha Fernando"]}
+{"date": ["06/22/2015"], "title": ["IUC 2015 | Basketball: So Close, Yet So Far"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["04/03/2013"], "title": ["Red Bull Campus Cricket World Finals : Great Britain Continues to Dominate - Thrashes Bangladesh"], "sponsor": [""], "editor": [""], "author": ["Rukshan Maliq\\xa0"]}
+{"date": ["02/09/2015"], "title": ["Sri Lanka\u2019s Subtlest Shuttlers to Battle at Gwangju"], "sponsor": [""], "editor": [""], "author": ["Buddhika Kithmini"]}
+{"date": ["07/26/2012"], "title": ["UOM \u2013 The Masters of Martial Art , Taekwondo"], "sponsor": [""], "editor": [""], "author": ["span>By\\xa0"]}
+{"date": ["09/24/2017"], "title": ["Both Semis Going to be Cliffhangers"], "sponsor": [""], "editor": [""], "author": ["Imthadh Ahamed\\xa0"]}
+{"date": ["08/18/2013"], "title": ["MORA SMASHES 2013 \u2013The Most Awaited Tournament is Scheduled\u2026"], "sponsor": [""], "editor": [""], "author": ["em>Treshani Perera"]}
+{"date": ["05/30/2015"], "title": ["IUC 2015 | Baseball: Another Struggle Began"], "sponsor": [""], "editor": [""], "author": ["Sachini Weerasinghe"]}
+{"date": ["09/10/2017"], "title": ["One more move for Glory!"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Shehara Liyanarachchi"]}
+{"date": ["03/31/2013"], "title": ["Newcomers sparkle as UOM cricket team outsmarts Panagoda CC"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["07/29/2012"], "title": ["Sabra Dominates Inter-University Athletics Championship"], "sponsor": [""], "editor": [""], "author": ["em>Niranda Perera\\xa0"]}
+{"date": ["06/07/2018"], "title": ["Are you ready to witness the glory? | MORALE\u201d18"], "sponsor": ["Millennium IT"], "editor": ["Janani Kulasekara"], "author": ["Lahiruni Perera"]}
+{"date": ["06/16/2014"], "title": ["CHESS: University of Peradeniya and University of Moratuwa Checkmate the Major Honours"], "sponsor": [""], "editor": [""], "author": ["/em>\\xa0"]}
+{"date": ["06/22/2015"], "title": ["IUC 2015 | Rugby : Rucks and Mauls\u2026 Mora Wins Them All\u2026."], "sponsor": [""], "editor": [""], "author": ["Ahamed \\xa0"]}
+{"date": ["06/04/2012"], "title": ["Moneyball All Over Again: Mora Clinches their First Ever Inter Uni Baseball Title!"], "sponsor": [""], "editor": [""], "author": ["em>Niles Perera"]}
+{"date": ["04/07/2013"], "title": ["SLUG Tennis Day 2 is an Entertainment Package"], "sponsor": [""], "editor": [""], "author": ["em>R.Arunothayan"]}
+{"date": ["06/20/2014"], "title": ["CRICKET: UOK Upset the Defending Champions UOM in Semi Final"], "sponsor": [""], "editor": [""], "author": ["Ravendran Arunothayan"]}
+{"date": ["07/28/2014"], "title": ["Pera and J\u2019Pura fascinate the Inter University Swimming meet "], "sponsor": [""], "editor": [""], "author": ["Mohamed Shiham"]}
+{"date": ["08/13/2017"], "title": ["IUG Rugby: Pera and Mora swapped their positions challenging the history"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Hashini Madushika"]}
+{"date": ["04/03/2013"], "title": ["Red Bull Campus Cricket World Finals : India Secures Another Win Against Australia"], "sponsor": [""], "editor": [""], "author": ["Rukshan Maliq"]}
+{"date": ["04/18/2013"], "title": ["USJP Storms Into Semis at a Canter"], "sponsor": [""], "editor": [""], "author": ["em>Ahamed Saleem"]}
+{"date": ["08/17/2014"], "title": ["Rajarata Ladies - Queen of Elle"], "sponsor": [""], "editor": [""], "author": ["Sutharman Paskaran"]}
+{"date": ["04/28/2013"], "title": ["SAB Clinches Bronze to Finish Things in Style"], "sponsor": [""], "editor": [""], "author": ["em>Ahamed Saleem"]}
+{"date": ["07/08/2015"], "title": ["28th Summer Universiade, Gwangju | Table Tennis Mixed Doubles Leads Lanka to Victory"], "sponsor": [""], "editor": [""], "author": ["Piumi Manawadu"]}
+{"date": ["05/10/2013"], "title": ["SLUG 2013 TABLE TENNIS: University of Sri Jayawardenapura Wins Both Men\u2019s and Women\u2019s Titles!"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["05/12/2013"], "title": ["Japura won the Battle, Mora won the War \u2013 SLUG Athletics"], "sponsor": [""], "editor": [""], "author": ["Sutharman Paskaran"]}
+{"date": ["07/27/2014"], "title": ["DASH IT!!"], "sponsor": [""], "editor": [""], "author": ["Denisha Jayaweera"]}
+{"date": ["06/22/2014"], "title": ["Colombo beat Sabare in a nail biter.... "], "sponsor": [""], "editor": [""], "author": ["Farazath Ahamed"]}
+{"date": ["11/23/2013"], "title": ["50 overs, 20 overs and now 5 overs, Mora Wins it All - Mora Sixes"], "sponsor": [""], "editor": [""], "author": ["By "]}
+{"date": ["11/19/2016"], "title": ["MORA HOCKEY 7\u2019S 2016"], "sponsor": [""], "editor": [""], "author": ["R.A.Kasuni Harshika"]}
+{"date": ["05/10/2013"], "title": ["SLUG HOCKEY: UOM and UOP Were Decorated with Major Honours"], "sponsor": [""], "editor": [""], "author": ["R. Arunothayan"]}
+{"date": ["11/21/2013"], "title": ["Mora's Cricket Fiesta Back in Town"], "sponsor": [""], "editor": [""], "author": ["Kantheepan Yogeswaran"]}
+{"date": ["10/08/2015"], "title": ["Mora Crowned Champions at Kelaniya Hockey Sixes 2015"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["08/13/2013"], "title": ["Daminda & Malith's Last Wicket Heroics Take Mora Into Quarters- Division III Cricket"], "sponsor": [""], "editor": [""], "author": ["em>Tharindu Wanigasekara"]}
+{"date": ["03/11/2013"], "title": ["UOM Cricketers Go Pass The 400 Land Mark for Another Easy Win"], "sponsor": [""], "editor": [""], "author": ["span>By\\xa0"]}
+{"date": ["06/27/2017"], "title": ["Battle of aces begun; Favourites live up to the hype !"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Archanath Dickwella"]}
+{"date": ["05/31/2015"], "title": ["IUC 2015 | Baseball: Conquerors and Losers "], "sponsor": [""], "editor": [""], "author": ["Sachini Weerasinghe"]}
+{"date": ["04/10/2013"], "title": ["WAY Emulated a \u201cCricket Score\u201d Against EUSL to Open Their Rugby Campaign"], "sponsor": [""], "editor": [""], "author": ["em>R. Arunothayan"]}
+{"date": ["07/31/2017"], "title": ["Who gets to fight for gold?"], "sponsor": [""], "editor": [""], "author": ["Yumna Albar"]}
+{"date": ["09/06/2014"], "title": ["Japura Leads the Charge at Athletics"], "sponsor": [""], "editor": [""], "author": ["Sapuni Hettiarachichi\\xa0"]}
+{"date": ["05/11/2013"], "title": ["UOM \u201cKicks In\u201d with Another Emphatic Win at Taekwondo"], "sponsor": [""], "editor": [""], "author": ["em>Dehan De Croos"]}
+{"date": ["06/14/2014"], "title": ["Swish of the Racquets at Quarter Finals"], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["07/07/2015"], "title": ["28th Summer Universiade, Gwangju | Badminton Causes the Pearl of Indian Ocean to Shine Brighter"], "sponsor": [""], "editor": [""], "author": ["Lakshika Wimalasena"]}
+{"date": ["05/06/2013"], "title": ["SLUG 2013: Baseball vs Rain- First Round Goes to Baseball"], "sponsor": [""], "editor": [""], "author": ["Kantheepan Yogeeswaran"]}
+{"date": ["06/09/2013"], "title": ["Energetic Startup of the \u2018SLT National Knockout Baseball Championship \u2013 2013\u2019"], "sponsor": [""], "editor": [""], "author": ["Brinthan Thavaneswaran"]}
+{"date": ["04/03/2015"], "title": ["The Stars of Tomorrow"], "sponsor": [""], "editor": [""], "author": ["Merl Chandana"]}
+{"date": ["09/16/2012"], "title": ["\u201cLeaders Trophy\u201d Basketball Tournament is Scheduled"], "sponsor": [""], "editor": [""], "author": ["em>Treshani Perera"]}
+{"date": ["04/09/2015"], "title": ["Mora and Pera Victorious at the Elle Triangular Tournament"], "sponsor": [""], "editor": [""], "author": ["Sachini Weerasinghe"]}
+{"date": ["06/16/2014"], "title": ["Sabaragamuwa settle for consolation win"], "sponsor": [""], "editor": [""], "author": ["\\xa0Chinthaka Chandrasekara"]}
+{"date": ["05/07/2013"], "title": ["SLUG 2013 BASEBALL: University of Moratuwa and University of Colombo Progress To The Finals "], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["05/10/2013"], "title": ["SLUG 2013 Women\u2019s Table Tennis: Four Teams Retain Their Hopes For Gold"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["05/18/2015"], "title": ["IUC 2015 | Cricket : A \u201cNo Sweat\u201d Victory for Mora"], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["05/03/2013"], "title": ["SLUG 2013 RUGBY: UoC Clinches the Third Place"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["05/17/2015"], "title": ["IUC 2015 | Cricket : A Recap of the Opening Day "], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["11/22/2013"], "title": ["Mora Sixes 2013 Hits the University of Moratuwa Grounds"], "sponsor": [""], "editor": [""], "author": ["Brinthan Thavaneswaran"]}
+{"date": ["07/10/2015"], "title": ["History Repeats as UOM Lifts the Mora Cup 2015"], "sponsor": [""], "editor": [""], "author": ["Rubasinghe \\xa0"]}
+{"date": ["05/07/2013"], "title": ["SLUG BADMINTON: USJP, UOK Shattered the \u201cShuttle Double\u201d Dream of UOM"], "sponsor": [""], "editor": [""], "author": ["em>R. Arunothayan"]}
+{"date": ["05/25/2014"], "title": ["University of Wayamba tastes Victory against University of Jaffna"], "sponsor": [""], "editor": [""], "author": ["Sandarekha Ramanayake"]}
+{"date": ["11/26/2013"], "title": ["Mora Sevens 2013"], "sponsor": [""], "editor": [""], "author": ["em>Gayanjith Premalal"]}
+{"date": ["08/09/2015"], "title": ["IUC 2015 | Badminton: Witness the Unexpected"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["04/18/2013"], "title": ["UOP Outrun SAB to Book a Place in The Semis"], "sponsor": [""], "editor": [""], "author": ["em>Ahamed Saleem"]}
+{"date": ["04/02/2013"], "title": ["Red Bulls Campus Cricket World Finals: England Registers a Big Win Over Sri Lanka"], "sponsor": [""], "editor": [""], "author": ["em>Mokananrangan Thayaparan "]}
+{"date": ["08/10/2015"], "title": ["IUC | Taekwondo: UOM and RUH Rock the Taekwondo Arena!"], "sponsor": [""], "editor": [""], "author": ["Samudika Weerasinghe"]}
+{"date": ["07/03/2017"], "title": ["Colombo kicks off Inter-Uni Rugby in a dominating style"], "sponsor": [""], "editor": [""], "author": ["/p>\\n Article by :\\xa0"]}
+{"date": ["02/17/2015"], "title": ["Sticks that Came from Nowhere"], "sponsor": [""], "editor": [""], "author": ["Farasath Ahamed"]}
+{"date": ["08/13/2017"], "title": ["IUGs 2017| Netball : Who Will Conquer The Court?"], "sponsor": [""], "editor": [""], "author": ["Nethumini Palihawadana"]}
+{"date": ["05/31/2015"], "title": ["IUC 2015 | Rugby : Action has Just Begun..."], "sponsor": [""], "editor": [""], "author": ["Farasath Ahamed"]}
+{"date": ["10/27/2017"], "title": ["Mora Hockey 7's : An Event to Remember "], "sponsor": [""], "editor": [""], "author": ["Lahiruni Perera"]}
+{"date": ["08/17/2014"], "title": ["The Swish and Flick of a Baseball Bat"], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["09/09/2016"], "title": ["SLUG 2016 | Put your arms composed, to let the volleyball taking wings in the firmament..(Day 01)"], "sponsor": [""], "editor": [""], "author": ["R.A.Kasuni Harshika"]}
+{"date": ["01/20/2013"], "title": ["J\u2019pura Kings bowl their way into the big Final"], "sponsor": [""], "editor": [""], "author": ["em>R.\\xa0Arunothayan"]}
+{"date": ["06/07/2015"], "title": ["IUC 2015 | Cricket: Mora Triumphs over J'pura at Home"], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["04/10/2013"], "title": ["Rain Playing The Villain in The Japura vs Sabra Clash"], "sponsor": [""], "editor": [""], "author": ["em>Sutharman Paskaran"]}
+{"date": ["05/31/2014"], "title": ["CRICKET: The Race of the Quarter Finalists"], "sponsor": [""], "editor": [""], "author": ["Mierunalan Seyon"]}
+{"date": ["06/09/2017"], "title": ["Girls on Mora ground"], "sponsor": [""], "editor": [""], "author": ["Janani Kulasekara"]}
+{"date": ["05/15/2014"], "title": ["Carrom: Wit and Skill Aligned"], "sponsor": [""], "editor": [""], "author": ["Sapuni Hettiarachchi"]}
+{"date": ["10/22/2013"], "title": ["Mora Magic at KDU Sevens, Leaders\u2019 Trophy"], "sponsor": [""], "editor": [""], "author": ["em>Gayanjith Premalal"]}
+{"date": ["08/08/2015"], "title": ["IUC 2015 | Badminton: Pera Suffers Every Host\u2019s Nightmare"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["05/31/2015"], "title": ["IUC 2015 : Wrestling | \u201cColosseum Re-enacted\u201d"], "sponsor": [""], "editor": [""], "author": ["Buddhika Kithmini"]}
+{"date": ["08/07/2017"], "title": [" IUG Rugby : Host Pera and Mora retain title hopes"], "sponsor": [""], "editor": [""], "author": ["Imthadh Ahamed\\xa0"]}
+{"date": ["06/26/2017"], "title": ["The most powerful adversary: Ruhuna, makes it home "], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Tharika Kahandawa Arachchi"]}
+{"date": ["05/06/2013"], "title": ["Black Out Day is not so good for Volleyball"], "sponsor": [""], "editor": [""], "author": ["Sutharman Paskaran"]}
+{"date": ["03/04/2015"], "title": ["The Triangular Friendly Tournament, an Eminent Experience"], "sponsor": [""], "editor": [""], "author": ["Nayomi Kumarapperuma"]}
+{"date": ["08/23/2015"], "title": ["IUC 2015 | Football : Day 1 - \u201cFirst Kick on the Balls\u201d "], "sponsor": [""], "editor": [""], "author": ["Farasath Ahamed"]}
+{"date": ["01/26/2013"], "title": ["Moratuwa Sharks Makes History for Take on The World Universities"], "sponsor": [""], "editor": [""], "author": ["em>Tharindu Wanigasekara"]}
+{"date": ["04/18/2013"], "title": ["SLUG Rugby: Unbeaten UOC Walks into the Semi Finals"], "sponsor": [""], "editor": [""], "author": ["Brinthan Thavaneswaran"]}
+{"date": ["05/06/2016"], "title": ["UMiSF|The Most Awaited UMiSF 2016 is Here"], "sponsor": [""], "editor": [""], "author": ["Samudika Weerasinghe"]}
+{"date": ["09/08/2016"], "title": ["SLUG 2016 | Over the bluish waves, University of Jayawardenepura won both championships"], "sponsor": [""], "editor": [""], "author": ["R.A.Kasuni Harshika"]}
+{"date": ["11/19/2017"], "title": ["Scrabble Among University Games"], "sponsor": [""], "editor": [""], "author": ["Yumna Albar"]}
+{"date": ["04/21/2013"], "title": ["UOK Cricket Team Cruises to Semifinals"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["06/15/2013"], "title": ["Baseball Giants Clash Together"], "sponsor": [""], "editor": [""], "author": ["em>Tharindu Wanigasekara"]}
+{"date": ["07/13/2014"], "title": ["Apprentices into Tracks and Fields"], "sponsor": [""], "editor": [""], "author": ["Ayoma Nilakshi"]}
+{"date": ["06/14/2014"], "title": ["Mora Rowing Re-writes History."], "sponsor": [""], "editor": [""], "author": ["Rukshan Malik"]}
+{"date": ["11/23/2014"], "title": ["Bowling Against the Highest Chair"], "sponsor": [""], "editor": [""], "author": ["/em>"]}
+{"date": ["08/05/2017"], "title": ["The flash of the shuttlecocks !"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Janani Kulasekara"]}
+{"date": ["05/04/2015"], "title": ["Rolling Dice, Game of Chance"], "sponsor": [""], "editor": [""], "author": ["Sathyani Wickramaarachchi"]}
+{"date": ["05/05/2013"], "title": ["SLUG 2013 FOOTBALL: Dominant UOJ Wins Gold, While UOM Secures  Silver"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["08/13/2016"], "title": ["SLUG-2016|You are not allowed without a 'Hockey Stick'"], "sponsor": [""], "editor": ["Heshani Samarasekara"], "author": ["Chathuranga Amunugama\\xa0"]}
+{"date": ["01/04/2013"], "title": ["Red Bull Campus Cricket 2013 - Who will make it to the Semi\u2019s???"], "sponsor": [""], "editor": [""], "author": ["em>Radhavi Samarakoon"]}
+{"date": ["05/04/2017"], "title": ["Unknown Start\u2026 Unforgettable Finish!"], "sponsor": [""], "editor": [""], "author": ["Ishani Shehara"]}
+{"date": ["08/01/2017"], "title": ["House Colombo regains the Tennis Throne"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Archanath Dickwella"]}
+{"date": ["12/11/2015"], "title": ["Mora 7s 2015 - Inter-Collegiate Rugby Sevens Tournament"], "sponsor": [""], "editor": [""], "author": ["Sachini Weerasinghe."]}
+{"date": ["08/01/2017"], "title": ["Speaking to Struggle, Victory and Dreams"], "sponsor": [""], "editor": [""], "author": ["Yumna Albar"]}
+{"date": ["08/27/2013"], "title": ["MORA SMASHES\u201913: Inter University Table Tennis Championship"], "sponsor": [""], "editor": [""], "author": ["em>Dehan De Croos"]}
+{"date": ["06/19/2017"], "title": ["The Slow and Steady Wins the Game"], "sponsor": [""], "editor": [""], "author": ["Ingeetha Nimnavi"]}
+{"date": ["04/20/2014"], "title": ["Five Hearts \u2013 One Boat \u2013 One Beat"], "sponsor": [""], "editor": [""], "author": ["Malithie Vidanapathirana"]}
+{"date": ["09/07/2014"], "title": ["Japura Dominates Athletics"], "sponsor": [""], "editor": [""], "author": ["Sapuni Hettiarachchi"]}
+{"date": ["03/21/2017"], "title": ["Battle of the gods with the golden rackets! UMiSF 2017!"], "sponsor": [""], "editor": [""], "author": ["Shenali Welikala"]}
+{"date": ["02/08/2014"], "title": ["Moratuwa Team\u2019s Spur Gives Epic Victory Over Koreans"], "sponsor": [""], "editor": [""], "author": ["Shiham Farook"]}
+{"date": ["11/29/2013"], "title": ["RUGBY: UOM Retained Their Unbeaten Tag in Mora Sevens 2013"], "sponsor": [""], "editor": [""], "author": ["em>Arunothayan Ravendran\\xa0"]}
+{"date": ["04/05/2013"], "title": ["Mora Crushes Amana Takaful to Clinch The CEO\u2019s Challenge Trophy"], "sponsor": [""], "editor": [""], "author": ["By "]}
+{"date": ["04/02/2013"], "title": ["Red Bulls Campus Cricet World Finals: Clinical India Makes a Comfortable Win Against Australia"], "sponsor": [""], "editor": [""], "author": ["By "]}
+{"date": ["05/17/2015"], "title": ["IUC 2015 | Rugby : No Sweat..."], "sponsor": [""], "editor": [""], "author": ["Farasath Ahamed"]}
+{"date": ["10/23/2015"], "title": ["Kelaniya Dictates the Mora 7\u2019s Arena"], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["01/11/2013"], "title": ["Will Mora Get a Taste of Much Awaited Victory?"], "sponsor": [""], "editor": [""], "author": ["Radhavi Samarakoon"]}
+{"date": ["08/02/2012"], "title": ["Basketball Final Goes Under the Microscope"], "sponsor": [""], "editor": [""], "author": ["em>Niles Perera"]}
+{"date": ["06/02/2014"], "title": ["TENNIS: Dominant UOC clinch Double Gold..."], "sponsor": [""], "editor": [""], "author": ["Farazath Ahamed\\xa0"]}
+{"date": ["06/30/2014"], "title": ["UOM and RAJ Grab Gold in Carrom Shoots"], "sponsor": [""], "editor": [""], "author": ["Mohamed Shiham"]}
+{"date": ["09/07/2016"], "title": ["SLUG 2016 | Swimming battle of university mermen and mermaids"], "sponsor": [""], "editor": [""], "author": ["R.A.Kasuni Harshika"]}
+{"date": ["08/23/2014"], "title": ["Rain gets all \u2018Sticky\u2019 at Pera\u2026"], "sponsor": [""], "editor": [""], "author": ["Farazath Ahamed"]}
+{"date": ["08/08/2014"], "title": ["Inter Uni Football Kicks Off in Jaffna"], "sponsor": [""], "editor": [""], "author": ["Ravendran Arunothayan"]}
+{"date": ["07/11/2015"], "title": ["28th Summer Universiade, Gwangju | Shuttlers Qualifying to Pre-Quarter Finals"], "sponsor": [""], "editor": [""], "author": ["Piumi Manushika"]}
+{"date": ["09/18/2017"], "title": ["The kings and queens of IUG hockey 2017"], "sponsor": ["br>\\nSponsored by:Millennium IT"], "editor": ["br>\\nEdited by:Kasuni Harshika"], "author": ["Article by:Janani Kulasekara"]}
+{"date": ["04/10/2013"], "title": ["Dominating Peradeniya off to a Flying Start in SLUG Cricket 2013"], "sponsor": [""], "editor": [""], "author": ["em>Brinthan Thavaneswaran"]}
+{"date": ["06/08/2015"], "title": ["IUC 2015 | Rugby : Survival of the Fittest"], "sponsor": [""], "editor": [""], "author": ["Farasath Ahamed"]}
+{"date": ["06/14/2015"], "title": ["IUC 2015 | Cricket: Mora Wins the Tussle for Cricket Glory"], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["02/20/2016"], "title": ["Striker Hits the Disks"], "sponsor": [""], "editor": [""], "author": ["Heshani Samarasekara"]}
+{"date": ["02/13/2016"], "title": ["Mora Sixes: Day 1 - It was a Bang"], "sponsor": [""], "editor": [""], "author": ["span class=\"gD\" name=\"Chathuranga Amunugama\" email=\"biharachathu@yahoo.com\">hathuranga Amunugama"]}
+{"date": ["07/10/2012"], "title": ["PERA with the Golden Boots"], "sponsor": [""], "editor": [""], "author": ["Chathuranga Kannangara"]}
+{"date": ["06/13/2017"], "title": ["Pera Lifts It to Supremacy Amid 8 New Records"], "sponsor": [""], "editor": [""], "author": [": "]}
+{"date": ["04/09/2013"], "title": ["KEL issued a Resounding Warning by demolishing EUSL on the Opening Day"], "sponsor": [""], "editor": [""], "author": ["R. Arunothayan"]}
+{"date": ["04/19/2018"], "title": ["Continue or Restart !"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Anjalee Sudasinghe"]}
+{"date": ["07/17/2015"], "title": ["IUC 2015 | Chess: Minds Onboard\u2026 The War Begins!"], "sponsor": [""], "editor": [""], "author": ["a Bye."]}
+{"date": ["04/04/2013"], "title": ["Red Bull Campus Cricket World Finals: Nabeel\u2019s Cameo Takes Pakistan to Semifinals"], "sponsor": [""], "editor": [""], "author": ["180 runs."]}
+{"date": ["08/02/2013"], "title": ["Mora hockey field is about to be heated \u2013 Mora Hockey 7\u2019s"], "sponsor": [""], "editor": [""], "author": ["Tharindu Chamikara"]}
+{"date": ["05/24/2014"], "title": ["Cricket: Inter-University Cricket Championship Kicks Off in Grand Style"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["05/25/2015"], "title": ["IUC 2015 | Cricket: Mora and J'Pura Cruise to the Semi-Finals"], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["09/13/2016"], "title": ["SLUG 2016 | UOC men secured the championship"], "sponsor": [""], "editor": [""], "author": ["Mevni Piyarisi"]}
+{"date": ["09/17/2017"], "title": ["Paddlers began their journey"], "sponsor": ["br>\\nSponsored by:Millennium IT"], "editor": ["br>\\nEdited by:Kasuni Harshika"], "author": ["Article by:Archanath Dickwella"]}
+{"date": ["03/01/2015"], "title": ["Row, Row, Row Your Boat! "], "sponsor": [""], "editor": [""], "author": ["Buddhika Kithmini"]}
+{"date": ["06/08/2014"], "title": ["The Sharks Munch Sabaragamuwa"], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["04/12/2013"], "title": ["UOM Men and Women Grab Championship of Annual Mora Elle Tournament"], "sponsor": [""], "editor": [""], "author": ["em>Ahamed Saleem"]}
+{"date": ["05/06/2013"], "title": ["SLUG Netball off to a Solid Start Despite Bad Weather"], "sponsor": [""], "editor": [""], "author": ["Rukshan Maliq"]}
+{"date": ["05/09/2013"], "title": ["SLUG 2013: UOC Dominates Karate"], "sponsor": [""], "editor": [""], "author": ["Kantheepan Yogeeswaran"]}
+{"date": ["05/11/2013"], "title": ["SLUG 2013 BASEBALL: University of Moratuwa Crowned Champions!"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["12/03/2013"], "title": ["National Taekwondo Tournament 2013: SL Army Wins Overall Championship, Anusha Bandara Brings Honour to UOM"], "sponsor": [""], "editor": [""], "author": ["em>Mohamed Yasir"]}
+{"date": ["08/29/2015"], "title": ["IUC 2015 | Tennis: It's Time for Tennis"], "sponsor": [""], "editor": [""], "author": ["Kithmini Senevirathne"]}
+{"date": ["03/03/2013"], "title": ["UOM Cricket Season Begins on a Winning Note"], "sponsor": [""], "editor": [""], "author": ["Rukshan Maliq"]}
+{"date": ["05/04/2013"], "title": ["Moratuwa Rowing Create History in Beira Lake"], "sponsor": [""], "editor": [""], "author": ["Sutharman Paskaran"]}
+{"date": ["09/24/2017"], "title": ["The Defending Champions \u2013 J\u2019pura \u2013 Or could it be someone else?"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Tharika Kahandawa Arachchi"]}
+{"date": ["03/17/2013"], "title": ["Stunning Win for UOM Sets a New Record"], "sponsor": [""], "editor": [""], "author": ["Mokananrangan Thayaparan"]}
+{"date": ["07/08/2013"], "title": ["23rd Women\u2019s National Hockey Tournament: Combined University Team Wins Third Place "], "sponsor": [""], "editor": [""], "author": ["A.R. Yasir"]}
+{"date": ["10/27/2017"], "title": ["Together Everyone Achieves More!"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Sabaragamuwa University."]}
+{"date": ["09/17/2017"], "title": ["TWO new champions, ONE epic comeback, highlights final day"], "sponsor": ["br>\\nSponsored by:Millennium IT"], "editor": ["br>\\nEdited by:Kasuni Harshika"], "author": ["Article by:Archanath Dickwella"]}
+{"date": ["08/10/2014"], "title": ["\u2018Home Wins Gold\u2019 - the Inter University Football Championship 2014"], "sponsor": [""], "editor": [""], "author": ["De Silva"]}
+{"date": ["09/12/2013"], "title": ["Yet Another Silverware for Mora Tennis"], "sponsor": [""], "editor": [""], "author": ["Sutharman Paskaran"]}
+{"date": ["08/22/2015"], "title": ["IUC 2015 | Tennis : It's All Up For Grabs"], "sponsor": [""], "editor": [""], "author": ["Merl Chandana"]}
+{"date": ["01/26/2013"], "title": ["Spirited Lions Snatch Third Spot of Red Bull Campus Cricket 2013"], "sponsor": [""], "editor": [""], "author": ["the end."]}
+{"date": ["11/30/2012"], "title": ["APIIT Sports Extravaganza 2012 \u2013 Badminton"], "sponsor": [""], "editor": [""], "author": ["em>Pramodya Senanayaka"]}
+{"date": ["08/07/2017"], "title": ["Mora Men Won 10th Consecutive Title; Colombo Women Completed Whitewash"], "sponsor": [""], "editor": [""], "author": ["Imthadh Ahamed"]}
+{"date": ["08/19/2012"], "title": ["Ruhuna Raise the bar at the Inter-Uni Weight Lifting Championship 2012\u2026"], "sponsor": [""], "editor": [""], "author": ["-By\\xa0Niranda Perera"]}
+{"date": ["03/02/2014"], "title": ["Mora completes a famous victory over Nigeria"], "sponsor": [""], "editor": [""], "author": ["Yasanka Jayawardane"]}
+{"date": ["08/24/2014"], "title": ["Table Tennis: UOM Men and UOC Women Emerged Champions"], "sponsor": [""], "editor": [""], "author": ["Sandrekha Ramanayake"]}
+{"date": ["08/30/2015"], "title": ["IUC 2015 | Tennis Day 3: Best Served Hot"], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["04/10/2013"], "title": ["SLUG Cricket : Wayamba Thrashes Rajarata"], "sponsor": [""], "editor": [""], "author": ["em>Rukshan Maliq"]}
+{"date": ["07/16/2012"], "title": ["Mora Basketball \u2013 Victorious Again"], "sponsor": [""], "editor": [""], "author": ["em>Faheem Jalaldeen"]}
+{"date": ["08/15/2013"], "title": ["Colombo International Chess Festival 2013"], "sponsor": [""], "editor": [""], "author": ["br>\\nBy :\\xa0"]}
+{"date": ["12/05/2014"], "title": ["Mora Women\u2019s Badminton On A Roll"], "sponsor": [""], "editor": [""], "author": ["Sapuni Hettiarachchi"]}
+{"date": ["06/02/2012"], "title": ["Then there were four! - Inter University Baseball Results"], "sponsor": [""], "editor": [""], "author": ["em>Niles Perera"]}
+{"date": ["06/16/2014"], "title": ["Unstoppable Mora claims Inter-University title"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["05/28/2014"], "title": ["Uva Rugby \u2013 Battling it out hard"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["05/06/2017"], "title": ["\"Inter University games 2017\" just started!"], "sponsor": ["Millennium IT"], "editor": [""], "author": [" Janani Kulasekara"]}
+{"date": ["01/04/2013"], "title": ["UOK Clinch Tense Victory In Friendly Baseball Encounter"], "sponsor": [""], "editor": [""], "author": ["em>Mohamed Yasir"]}
+{"date": ["03/10/2015"], "title": ["Champions in the Making"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["04/02/2013"], "title": ["Red Bulls Campus Cricet World Finals: Pakistan opens the account with a comfortable win over Australia"], "sponsor": [""], "editor": [""], "author": ["em>Mokananrangan Thayaparan"]}
+{"date": ["03/20/2013"], "title": ["University Tennis Team Getting Ready for The World University Tournament"], "sponsor": [""], "editor": [""], "author": ["em>Jaanuvi Santhirasegaram"]}
+{"date": ["05/05/2013"], "title": ["Volleyball courts catches SLUG heat "], "sponsor": [""], "editor": [""], "author": ["Ahamed Saleem"]}
+{"date": ["04/01/2014"], "title": ["Vimukthi Gunathilake gets to his 200 wicket mark en route to another Mora Victory"], "sponsor": [""], "editor": [""], "author": ["Sandarekha Ramanayake"]}
+{"date": ["12/02/2012"], "title": ["Combined Uni hockey team makes it to the quarters at the Senior Nationals Hockey tournament 2012"], "sponsor": [""], "editor": [""], "author": ["span>By\\xa0"]}
+{"date": ["06/05/2018"], "title": ["Mandapa Takes Mora Soccer to Semi-Finals"], "sponsor": [""], "editor": [""], "author": ["Rushan Jayatunga"]}
+{"date": ["02/15/2014"], "title": ["THE SHUTTLE BATTLE CONTINUES \u2013 DAY 2"], "sponsor": [""], "editor": [""], "author": ["Malithie Vidanapathirana"]}
+{"date": ["04/13/2018"], "title": ["Good Old Games In April"], "sponsor": ["Millennium IT"], "editor": ["Janani Kulasekara"], "author": ["Dilshan Fernando"]}
+{"date": ["04/22/2014"], "title": ["Sneak Peaks of Mora Karate"], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["05/02/2013"], "title": ["Mora Oarsmen Capture Colvin Sirimanne Challenge Trophy for the Second Consecutive Year"], "sponsor": [""], "editor": [""], "author": ["em>Hirushie Karunathilake"]}
+{"date": ["05/03/2013"], "title": [" PERA snatches gold in weightlifting "], "sponsor": [""], "editor": [""], "author": ["Ahmed Saleem"]}
+{"date": ["08/24/2014"], "title": ["Hockey: Mora Men and Colombo Women Taste Success in the Hills"], "sponsor": [""], "editor": [""], "author": ["Farazath Ahamed"]}
+{"date": ["12/16/2013"], "title": ["Introductory Water Polo Training Camp"], "sponsor": [""], "editor": [""], "author": ["em>Radhavi Samarakoon"]}
+{"date": ["08/21/2016"], "title": ["SLUG 2016| Without a hassle they won the battle and ready for semi-finals"], "sponsor": [""], "editor": [""], "author": ["Pavani Sithara"]}
+{"date": ["04/05/2013"], "title": ["Red Bull Campus Cricket World Finals: A close match puts England into the Semifinals"], "sponsor": [""], "editor": [""], "author": ["em>Kantheepan Yogeeswaran"]}
+{"date": ["06/07/2014"], "title": ["Pera Snatches Victory In A Close Contest"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["04/05/2013"], "title": ["Tennis makes the first move in SLUG 2013!!!"], "sponsor": [""], "editor": [""], "author": ["em>P. Senanayaka"]}
+{"date": ["08/29/2016"], "title": ["SLUG-2016 | 19 Far - Fetched NUGR!!!!!"], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["05/14/2017"], "title": ["Agni Cricket Rises !"], "sponsor": ["Millennium IT"], "editor": [""], "author": ["Yumna Albar"]}
+{"date": ["05/10/2013"], "title": ["SLUG 2013 MEN\u2019S TABLE TENNIS: University of Sri Jayawardenapura Wins Gold After a Tense Battle Against University of Moratuwa"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["09/01/2016"], "title": ["SLUG 2016 | Reigning champs: Mora rugby won the trophy for the fourth consecutive time "], "sponsor": [""], "editor": ["Sachini Weerasinghe"], "author": ["Thakshal Ekanayake"]}
+{"date": ["08/15/2017"], "title": ["Fourth  Consecutive Time \u2013 Trophy Stays at Home "], "sponsor": [""], "editor": [""], "author": ["Nethumini Palihawadana"]}
+{"date": ["07/27/2014"], "title": ["76th Madras Colombo Regatta"], "sponsor": [""], "editor": [""], "author": ["Sapuni Hettiarachchi"]}
+{"date": ["08/09/2014"], "title": ["Football: Semifinal Stage is Set "], "sponsor": [""], "editor": [""], "author": ["Ravendran Arunothayan"]}
+{"date": ["02/13/2014"], "title": ["Top Ranked Shuttlers Battle for Spots for the World University Badminton Championship 2014 - Day 1"], "sponsor": [""], "editor": [""], "author": ["De Silva"]}
+{"date": ["09/12/2016"], "title": ["SLUG 2016| Volleyball - Effective blocks diffuse offensive attacks"], "sponsor": [""], "editor": [""], "author": ["Imalka Karunanayaka\\xa0"]}
+{"date": ["01/06/2013"], "title": ["Peradeniya Lions Crush Jaffna Bulls to Reach the Semi Finals"], "sponsor": [""], "editor": [""], "author": ["em>Sutharman Paskaran"]}
+{"date": ["08/23/2014"], "title": ["Inter University Table Tennis: Gold Medal Stage is Set for Tomorrow"], "sponsor": [""], "editor": [""], "author": ["Sandarekha Ramanayake\\xa0"]}
+{"date": ["04/11/2013"], "title": ["SLUG Cricket : Sabara hands Japura the first upset of the season"], "sponsor": [""], "editor": [""], "author": ["em>Sutharman Paskaran"]}
+{"date": ["09/16/2017"], "title": ["Let the hockey sticks to hit the balls!"], "sponsor": ["br>\\nSponsored by:Millennium IT"], "editor": ["br>\\nEdited by:Kasuni Harshika"], "author": ["Janani Kulasekara"]}
+{"date": ["05/16/2018"], "title": ["11 days of 11th  UMISF"], "sponsor": ["Millennium IT"], "editor": ["Imthadh Ahamed"], "author": ["Dilini Jayathissa"]}
+{"date": ["10/23/2014"], "title": ["14th Inter-Collegiate Sevens Rugby Tournament"], "sponsor": [""], "editor": [""], "author": ["Chamanthi Jayaweera"]}
+{"date": ["04/04/2013"], "title": ["Red Bull Campus Cricket World Finals: Sri Lanka Registers a Victory Against Bangladesh "], "sponsor": [""], "editor": [""], "author": ["em>Kantheepan Yogeeswaran"]}
+{"date": ["04/03/2013"], "title": ["Red Bull Campus Cricket World Finals : Sri Lanka Records First Win in the Tournament Against Great Britain"], "sponsor": [""], "editor": [""], "author": ["Rukshan Maliq"]}
+{"date": ["05/08/2013"], "title": ["All conquering Moratuwa adds another feather to their Crown \u2013SLUG Cricket champions"], "sponsor": [""], "editor": [""], "author": ["Sutharman Paskaran"]}
+{"date": ["05/03/2013"], "title": ["SLUG Rugby: The Gold Medal, Promised and Delivered by UOM"], "sponsor": [""], "editor": [""], "author": ["em>R. Arunothayan"]}
+{"date": ["07/31/2017"], "title": ["Begin with the End in Mind!"], "sponsor": [""], "editor": [""], "author": ["Ishani Shehara"]}
+{"date": ["04/18/2013"], "title": ["SLUG 2013 RUGBY: Mora Crushes Wayamba to Advance to the Semifinal"], "sponsor": [""], "editor": [""], "author": ["Mohamed Yasir"]}
+{"date": ["08/31/2015"], "title": ["IUC 2015 | Athletics: Sabra Takes Revenge!"], "sponsor": [""], "editor": [""], "author": ["Lakshika Wimalasena"]}
+{"date": ["05/26/2013"], "title": ["Cricket Div III: Versatile Mora Captain Too Much for Centrallians C.C"], "sponsor": [""], "editor": [""], "author": ["em>Tharindu Wanigasekara"]}
+{"date": ["07/03/2014"], "title": ["Tactical Competency Helps UOM to Lift Mora Cup 2014"], "sponsor": [""], "editor": [""], "author": ["Ravendran Arunothayan"]}
+{"date": ["05/06/2013"], "title": ["UOM, USJP and UOK Shuttlers Save their Dream of Tasting the Gold!!!"], "sponsor": [""], "editor": [""], "author": ["P. Senanayaka"]}
+{"date": ["05/08/2013"], "title": ["SLUG 2013: Hockey Sticks Start to Battle"], "sponsor": [""], "editor": [""], "author": ["em>P. Senanayaka"]}
+{"date": ["07/27/2012"], "title": ["UOC Gain Top Honours in the Inter University Basketball Championships, UOP Retains the Women\u2019s Trophy"], "sponsor": [""], "editor": [""], "author": ["em>Lasitha Manchanayake"]}
+{"date": ["06/14/2014"], "title": ["Inter University Chess Championship, Where \u201cThe Pin is Mightier than the Sword\u201d"], "sponsor": [""], "editor": [""], "author": ["De Silva"]}
+{"date": ["08/29/2014"], "title": ["Netball: Ladies face \u201cfight for the win\u201d situation"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["04/19/2013"], "title": ["SLUG Cricket: Sheer Textbook Display of UOC Terminated The Hopes of UVA"], "sponsor": [""], "editor": [""], "author": ["em>R. Arunothayan"]}
+{"date": ["06/18/2017"], "title": ["J\u2019pura The Undisputed Kings of Inter University Cricket "], "sponsor": ["Millenium IT"], "editor": [""], "author": ["Imthadh Ahamed"]}
+{"date": ["05/04/2013"], "title": ["SLUG 2013: RAJ Clinches the Road Race Trophy"], "sponsor": [""], "editor": [""], "author": ["em>P. Senanayaka"]}
+{"date": ["10/15/2014"], "title": ["Mora Sevens Inter-Collegiate Rugby Tournament to be Held for the 14th Time"], "sponsor": [""], "editor": [""], "author": ["UoM Rugby"]}
+{"date": ["07/14/2014"], "title": ["Red Bull Campus Cricket World Finals to get Underway in July"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["08/02/2015"], "title": ["IUC 2015 | Volleyball : Day 3 - Arena is on fire !!!"], "sponsor": [""], "editor": [""], "author": ["Heshani Samarasekara"]}
+{"date": ["10/02/2012"], "title": ["Carrom Shoots!"], "sponsor": [""], "editor": [""], "author": ["em>Hasini Abeywickrama"]}
+{"date": ["07/31/2017"], "title": ["Volleyball bumps from prelimineries to semifinals"], "sponsor": [""], "editor": [""], "author": ["Yumna Albar"]}
+{"date": ["09/09/2017"], "title": ["Journey to the Chess Crown begins"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Shehara Liyanarachchi"]}
+{"date": ["03/08/2013"], "title": ["Mora Rugby Settles Into The Season With a Win"], "sponsor": [""], "editor": [""], "author": ["em>Gayanjith Premalal"]}
+{"date": ["05/06/2013"], "title": ["Slug Shuttles \u201c Take Off \u201d"], "sponsor": [""], "editor": [""], "author": ["em>Dehan de Croos"]}
+{"date": ["01/06/2013"], "title": ["A Cameo by Silva puts Wayamba Heroes into the Semi-finals"], "sponsor": [""], "editor": [""], "author": ["em>Sutharman Paskaran"]}
+{"date": ["07/31/2017"], "title": ["The score boards stop flipping: Moratuwa and Sabaragamuwa win gold"], "sponsor": [""], "editor": [""], "author": ["Yumna Albar"]}
+{"date": ["03/18/2014"], "title": ["University of Moratuwa Karate goes Upswing"], "sponsor": [""], "editor": [""], "author": ["De Silva"]}
+{"date": ["09/30/2017"], "title": ["Pera Sweeps Wrestling Golds on Day-2  "], "sponsor": [""], "editor": [""], "author": ["Ingeetha Nimnavi"]}
+{"date": ["06/21/2015"], "title": ["IUC 2015 | Basketball: Bonum Bye, UOK!"], "sponsor": [""], "editor": [""], "author": ["-\\xa0Seyon Mierunalan"]}
+{"date": ["07/16/2017"], "title": ["Champions launched supremacy at Inter University swimming games 2017 !"], "sponsor": ["Millennium IT"], "editor": [""], "author": ["Kasuni Harshika"]}
+{"date": ["04/27/2013"], "title": ["SLUG CRICKET: UOC onto the Finals in a deceivingly Close Match "], "sponsor": [""], "editor": [""], "author": ["em>Dehan de Croos"]}
+{"date": ["05/17/2015"], "title": ["Inter University Elle Championship. Await."], "sponsor": [""], "editor": [""], "author": ["Ayoma Nilakshi"]}
+{"date": ["08/07/2015"], "title": ["IUC 2015 | Badminton: Let the Game Begin!"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["07/23/2012"], "title": ["J\u2019Pura Bags the Inter University Swimming Titleiversity Swimming Meet"], "sponsor": [""], "editor": [""], "author": ["Radhavi Samarakoon"]}
+{"date": ["02/28/2018"], "title": ["A ride to activate with MoraSpirit !"], "sponsor": ["Millennium IT"], "editor": [""], "author": ["Kasuni Harshika"]}
+{"date": ["07/16/2012"], "title": ["J\u2019pura Racers Mark Road Running Victory"], "sponsor": [""], "editor": [""], "author": ["em>Himeshi De Silva"]}
+{"date": ["04/19/2013"], "title": ["SLUG Cricket : UOM Records an Emphatic Victory over UOR to Advance to the Semi Finals"], "sponsor": [""], "editor": [""], "author": ["Rukshan Maliq"]}
+{"date": ["04/04/2013"], "title": ["Redbull Cricket World Finals- Group Stage - Pakistan Vs. Australia "], "sponsor": [""], "editor": [""], "author": ["em>Kantheepan Yogeeswaran"]}
+{"date": ["05/04/2013"], "title": ["SLUG 2013 FOOTBALL: A Football Festive Day With Sheer Will and Brilliance"], "sponsor": [""], "editor": [""], "author": ["Kantheepan Yogeeswaran"]}
+{"date": ["02/10/2013"], "title": ["Rugby Season Kicks Off"], "sponsor": [""], "editor": [""], "author": ["em>Gayanjith\\xa0Premalal"]}
+{"date": ["04/02/2013"], "title": ["Red Bull Campus Cricket World Finals: Bangladesh Sets Up a Stunning Win Against Sri Lanka"], "sponsor": [""], "editor": [""], "author": ["em>Mokananrangan Thayaparan"]}
+{"date": ["04/03/2013"], "title": ["Red Bull Campus Cricket World Finals : India Cruises to an Easy Win Against Pakistan"], "sponsor": [""], "editor": [""], "author": ["Rukshan Maliq"]}
+{"date": ["12/14/2015"], "title": ["MORA SMASHES 2015 \u2013 This time around for juniors"], "sponsor": [""], "editor": [""], "author": ["Samudika Weerasinghe"]}
+{"date": ["09/24/2014"], "title": ["UMiSF Bids Farewell to 2014"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["07/09/2012"], "title": ["Shuttlers of Mora and Kelaniya Seize the 2012 Titles"], "sponsor": [""], "editor": [""], "author": ["em>Sayuri Sumithrarachchi"]}
+{"date": ["08/09/2017"], "title": ["The luckiest rackets!"], "sponsor": ["Millennium IT"], "editor": ["br>\\nEdited by:Kasuni Harhika"], "author": ["Janani Kulasekara"]}
+{"date": ["09/25/2012"], "title": ["Four out of Seven Championships for the PERA Wrestlers"], "sponsor": [""], "editor": [""], "author": ["/span>"]}
+{"date": ["06/07/2015"], "title": ["IUC 2015 | Road Race: J\u2019Pura \u2013 The \u2018Road Runners\u2019"], "sponsor": [""], "editor": [""], "author": ["Sachini Weerasinghe"]}
+{"date": ["09/06/2017"], "title": ["Many have become Chess Masters; no one has become the Master of Chess"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Shehara Liyanarachchi"]}
+{"date": ["05/23/2015"], "title": ["IUC 2015 | Elle: The War Began!"], "sponsor": [""], "editor": [""], "author": ["Ayoma Nilakshi\\xa0"]}
+{"date": ["09/07/2015"], "title": ["IUC 2015 |Netball: J\u2019pura Deserved It All"], "sponsor": [""], "editor": [""], "author": ["Lakshika Wimalasena"]}
+{"date": ["05/27/2017"], "title": ["Sabra Reigns Supreme but J\u2019pura Steals the Show !"], "sponsor": [""], "editor": [""], "author": ["Merl Chandana"]}
+{"date": ["05/31/2014"], "title": ["TENNIS: Colombo, J'Pura and Pera ace Day 2"], "sponsor": [""], "editor": [""], "author": ["Farazath Ahamed"]}
+{"date": ["06/06/2017"], "title": ["J\u2019pura,Colombo,Jaffna and Rajarata Advance to Semis"], "sponsor": [""], "editor": [""], "author": ["Imthadh Ahamed"]}
+{"date": ["06/07/2015"], "title": ["IUC 2015 | Karate : \u201cIch \u2013 Ni \u2013 San \u2013 Shi\u201d"], "sponsor": [""], "editor": [""], "author": ["Buddhika Kithmini"]}
+{"date": ["07/28/2014"], "title": ["Basketball Finals: Pass\u2019n Shoot"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["07/15/2017"], "title": ["Four teams set up for one trophy !"], "sponsor": [""], "editor": ["Kasuni Harshika"], "author": ["Piyumi Yashodha"]}
+{"date": ["05/09/2013"], "title": ["SLUG Hockey: \u2018A Day Blend of Dedication, Determination, Commitment and Celebration\u2019"], "sponsor": [""], "editor": [""], "author": ["em>Arunothayan Ravendran"]}
+{"date": ["08/30/2015"], "title": ["IUC 2015 | Athletics: They are on the Go!"], "sponsor": [""], "editor": [""], "author": ["Lakshika Wimalasena"]}
+{"date": ["04/09/2013"], "title": ["SLUG CRICKET: University of Ruhuna Fights to the Last and Wins"], "sponsor": [""], "editor": [""], "author": ["em>Kantheepan Yogeeswaran"]}
+{"date": ["04/07/2013"], "title": ["Red Bull Campus Cricket World Finals-Finals: Mahajan\u2019s Captain Innings Put India At The Top of The Tournament"], "sponsor": [""], "editor": [""], "author": ["By "]}
+{"date": ["07/26/2015"], "title": ["IUC 2015 | Swimming: No Pool is too Cold for a Team so Hot"], "sponsor": [""], "editor": [""], "author": ["-\\xa0Samudika Weerasinghe"]}
+{"date": ["07/03/2013"], "title": ["Countdown to the 27th World University Summer Games in Kazan"], "sponsor": [""], "editor": [""], "author": ["em>Dehan De Croos"]}
+{"date": ["10/02/2016"], "title": ["Kick, punch, withdraw; UOM karatekas"], "sponsor": [""], "editor": [""], "author": ["Devindi Gunarathne"]}
+{"date": ["01/05/2013"], "title": ["The Fight for the Semi-final Begins- Moratuwa Sharks Through to the Next Level"], "sponsor": [""], "editor": [""], "author": ["em>Naleendra Kularatne"]}
+{"date": ["08/25/2015"], "title": ["IUC 2015 | Football : Football's \"Game of Thrones\" - Jaffna Dies at the Hands of Sabara"], "sponsor": [""], "editor": [""], "author": ["Farasath Ahamed"]}
+{"date": ["09/08/2014"], "title": ["Throne-rush comes to an end in grand style"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["07/23/2014"], "title": ["Shuttlers Flying Beyond Borders"], "sponsor": [""], "editor": [""], "author": ["Farasath Ahamed"]}
+{"date": ["11/11/2014"], "title": ["MORA Men and Women Won Gold Medals in the Invitational Inter University Taekwondo team Championship"], "sponsor": [""], "editor": [""], "author": ["Sandarekha Ramanayake\\xa0"]}
+{"date": ["05/09/2013"], "title": ["Who Would be Crowned as Champions in Elle, SLUG 2013\u2026???"], "sponsor": [""], "editor": [""], "author": ["em>Sandarekha Wickramanayake"]}
+{"date": ["07/31/2015"], "title": ["IUC 2015 | Volleyball :  Bang bang bang !!!"], "sponsor": [""], "editor": [""], "author": ["Heshani Samarasekara"]}
+{"date": ["05/05/2013"], "title": ["Colombo Defends the Gold from Kelaniya at SLUG Basketball Finals."], "sponsor": [""], "editor": [""], "author": ["Basketball series."]}
+{"date": ["05/03/2013"], "title": ["SLUG 2013: Football Kicks Off"], "sponsor": [""], "editor": [""], "author": ["Brinthan Thavaneswaran"]}
+{"date": ["08/10/2013"], "title": ["Mora men and Pera Ladies won the Top honours in Mora Hockey 7s"], "sponsor": [""], "editor": [""], "author": ["em>Sutharman Paskaran"]}
+{"date": ["04/04/2018"], "title": ["\u201cShe whispered she could, So she achieved !\u201d"], "sponsor": ["Millennium IT"], "editor": ["Janani Kulasekara"], "author": ["Jayan Chandresekera"]}
+{"date": ["06/27/2015"], "title": ["IUC 2015 | Carrom: Indoor Games off to a Thrilling Start"], "sponsor": [""], "editor": [""], "author": ["/em>-\\xa0"]}
+{"date": ["07/18/2012"], "title": ["University of Moratuwa and University of Sri Jayawardanepura clinch the trophies"], "sponsor": [""], "editor": [""], "author": ["Pramodya Senanayaka"]}
+{"date": ["07/18/2015"], "title": ["IUC 2015 | Chess: In Whose Favor will the Odds Be? "], "sponsor": [""], "editor": [""], "author": ["Nayomi Udara"]}
+{"date": ["07/22/2017"], "title": ["IUGs 2017| Table Tennis: All Set for Smash and Spin!"], "sponsor": [""], "editor": [""], "author": ["Ingeetha Nimnavi"]}
+{"date": ["09/27/2017"], "title": ["Jaffna Crowned the Champions of Inter University Football for the 13th time !"], "sponsor": [""], "editor": [""], "author": ["Imthadh Ahamed"]}
+{"date": ["08/24/2015"], "title": [" IUC 2015 | Table Tennis : J\u2019pura Conquers Table Tennis Arena"], "sponsor": [""], "editor": [""], "author": ["Ahamed Ifham"]}
+{"date": ["07/28/2012"], "title": ["Inter University Track and Field Championship 2012"], "sponsor": [""], "editor": [""], "author": ["em>Pramodya Senanayaka"]}
+{"date": ["05/30/2018"], "title": ["MORA SMASHES 2018: A Spectacular Clash of Smashes and Spins"], "sponsor": [""], "editor": [""], "author": ["Amanda Sheron"]}
+{"date": ["09/12/2017"], "title": ["Getting hit doesn\u2019t Actual Hurt"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Harshani Rajakruna"]}
+{"date": ["10/17/2016"], "title": ["They Outmatched the Blue Water in Sri Lanka & so Did in Malaysia"], "sponsor": [""], "editor": ["Sachini Weerasinghe"], "author": ["Pavani Sithara"]}
+{"date": ["03/22/2018"], "title": ["Are you still there, we have moved forward ! "], "sponsor": ["Millennium IT"], "editor": [""], "author": ["Kasuni Harshika"]}
+{"date": ["02/25/2013"], "title": ["Badminton Selections for Summer Universiade 2013"], "sponsor": [""], "editor": [""], "author": ["em>Jaanuvi Santhirasegaram"]}
+{"date": ["04/27/2013"], "title": ["SLUG Carrom Clash began "], "sponsor": [""], "editor": [""], "author": ["the quarterfinals."]}
+{"date": ["01/24/2013"], "title": ["Unbeaten Mora Clashing With Japura Kings in the Bid for the Crown"], "sponsor": [""], "editor": [""], "author": ["em>Sutharman Paskaran"]}
+{"date": ["07/19/2015"], "title": ["IUC 2015 | Chess: Pera 'Checkmates' the Arena"], "sponsor": [""], "editor": [""], "author": ["Nayomi Udara"]}
+{"date": ["09/30/2013"], "title": ["Mora Soccer: Praiseworthy Display of Artistic Football Brings the Leaders Trophy Home"], "sponsor": [""], "editor": [""], "author": ["span>By R.Arunothayan"]}
+{"date": ["04/10/2013"], "title": ["SAB Marked The First Win of The SLUG 2013 Rugby Season"], "sponsor": [""], "editor": [""], "author": ["P. R. Senanayaka"]}
+{"date": ["01/17/2013"], "title": ["RedBull Campus Cricket Semifinal"], "sponsor": [""], "editor": [""], "author": ["em>R. Arunothayan"]}
+{"date": ["04/07/2013"], "title": ["University Teams Display Talent at the Rowing Nationals"], "sponsor": [""], "editor": [""], "author": ["Jaanuvi Santhirasegaram"]}
+{"date": ["06/28/2015"], "title": ["IUC 2015 | Carrom: Moratuwa, Peradeniya take the Honours in Carrom"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["03/28/2017"], "title": ["Table Tennis Spins the Wayo Ground"], "sponsor": [""], "editor": [""], "author": ["Harshani Rajakauruna"]}
+{"date": ["03/11/2018"], "title": ["Injuries should not stop his career !"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Janani Kulasekara"]}
+{"date": ["06/17/2013"], "title": ["CRICKET DIVISION III: UoM Shines Through the Rain "], "sponsor": [""], "editor": [""], "author": ["Kantheepan Yogeeswaran"]}
+{"date": ["06/23/2016"], "title": ["The Name which Belongs for Victory, MORA: Elle Triangular Challenge Trophy 2016"], "sponsor": [""], "editor": ["Savi Sathyani"], "author": ["Gangani Sureka"]}
+{"date": ["05/04/2013"], "title": ["SLUG Basketball : The hunt for the Championship Continues..."], "sponsor": [""], "editor": [""], "author": [": "]}
+{"date": ["09/06/2015"], "title": ["IUC 2015 | Netball: The Three Seconds Decide All!"], "sponsor": [""], "editor": [""], "author": ["Lakshika Wimalasena"]}
+{"date": ["09/30/2017"], "title": ["Wrestling champs ignite the spark of victory!"], "sponsor": ["Millennium IT"], "editor": [""], "author": ["Kasuni Harshika"]}
+{"date": ["06/30/2014"], "title": ["Mora Rowing Victorious at Nationals"], "sponsor": [""], "editor": [""], "author": ["Sapuni Hettiarachchi"]}
+{"date": ["05/08/2013"], "title": ["Pera snatches the Wrestling Overall Championship in SLUG 2013"], "sponsor": [""], "editor": [""], "author": ["Sandareka Wickramanayake"]}
+{"date": ["08/23/2015"], "title": ["IUC 2015 | Weight Lifting: Weighed Chances "], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["05/07/2018"], "title": ["UOM got the power to snatch Mora Cup 2018"], "sponsor": ["Millenium IT\\n\\n\\xa0"], "editor": ["Janani Kulasekara\\n"], "author": ["Ranuja Bandara\\n"]}
+{"date": ["05/07/2013"], "title": ["UOC and USJP Dominates the Pool Amidst a Record Breaking Swimming Meet."], "sponsor": [""], "editor": [""], "author": ["em>Dehan De Croos"]}
+{"date": ["07/09/2015"], "title": ["28th Summer Universiade, Gwangju | Mubarak Rows His Way Up"], "sponsor": [""], "editor": [""], "author": ["Lakshika Wimalasena"]}
+{"date": ["06/19/2015"], "title": ["IUC 2015 | Basketball: Wayamba Upsets Colombo"], "sponsor": [""], "editor": [""], "author": ["Mierunalan Seyon"]}
+{"date": ["05/29/2017"], "title": ["Solace to the Thumping Heartbeats"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Harshani Rajakaruna"]}
+{"date": ["07/15/2017"], "title": ["Inter University swimming champs over verdant aquatic  !"], "sponsor": [" Millennium IT"], "editor": [""], "author": ["her too."]}
+{"date": ["09/26/2014"], "title": ["Look Out! Here Comes Mora!"], "sponsor": [""], "editor": [""], "author": ["Sathyani Wickramaarachchi"]}
+{"date": ["10/11/2012"], "title": ["Mora Sculling Regatta 2012"], "sponsor": [""], "editor": [""], "author": ["em>By\\xa0\\xa0Radhavi Samarakoon"]}
+{"date": ["04/08/2013"], "title": ["SLUG Tennis : UOM and UOC Crowned Champions "], "sponsor": [""], "editor": [""], "author": [": "]}
+{"date": ["01/13/2013"], "title": ["An Eight Wicket Win for Old Benedicts in the Colombo District Division III Final"], "sponsor": [""], "editor": [""], "author": ["Y. Kantheepan"]}
+{"date": ["08/07/2017"], "title": ["Final rackets were selected !"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Janani Kulasekara"]}
+{"date": ["12/12/2012"], "title": ["UOM emerge as Champions in Mora SMASHES 2012"], "sponsor": [""], "editor": [""], "author": ["Treshani Perera"]}
+{"date": ["05/24/2014"], "title": ["Rugby: Wayamba Picked Up a Good Start"], "sponsor": [""], "editor": [""], "author": ["Yasanka Jayawardane\\xa0"]}
+{"date": ["09/11/2017"], "title": ["A Splendid Ending - Japura and Colombo again the Chess Masters!"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Shehara Liyanarachchi"]}
+{"date": ["05/10/2013"], "title": ["Hosts UoM falls apart while UoC and UoR clinch SLUG-2013 Elle glory"], "sponsor": [""], "editor": [""], "author": ["Ahamed Saleem"]}
+{"date": ["05/11/2013"], "title": ["Would athletics change the  order of the overall standings ???"], "sponsor": [""], "editor": [""], "author": ["Sandareka Wickramanayake"]}
+{"date": ["09/25/2017"], "title": ["J\u2019pura crowned undisputed Inter-Uni Basketball champions"], "sponsor": ["/div>'] Sponsored by:Millennium IT"], "editor": ["/p>\\n Edited by:Kasuni Harshika"], "author": ["/p>\\n Article by:Hashini Madushika"]}
+{"date": ["05/26/2015"], "title": ["IUC 2015 | Elle: Pera Girls Own the Crown!"], "sponsor": [""], "editor": [""], "author": ["Ayoma Nilakshi"]}
+{"date": ["04/25/2014"], "title": ["Girls of Basketball, Learn from the Best of All "], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["06/24/2017"], "title": ["InterUni Elle: Kelani Girls Score the Homerun"], "sponsor": [""], "editor": ["Yumna Albar"], "author": ["Tharika Kahandawa Arachchi"]}
+{"date": ["08/11/2015"], "title": ["Shooting With No Bullets \u2013 Mora Invitational Basketball Tournament 2015 "], "sponsor": [""], "editor": [""], "author": ["Savi Sathyani"]}
+{"date": ["08/21/2013"], "title": ["It\u2019s the time for friendly cricket \u2013 battle of the old Mora lads "], "sponsor": [""], "editor": [""], "author": ["Tharindu Chamikara"]}
+{"date": ["09/03/2016"], "title": ["SLUG 2016 | UoM, UoC, SAB, J\u2019Pura, KEL shined at Badminton Preliminary Round"], "sponsor": [""], "editor": [""], "author": ["Thakshal Ekanayake"]}
+{"date": ["08/26/2016"], "title": ["SLUG 2016 | UOM Rugby stepped ahead to the victory"], "sponsor": [""], "editor": ["Sachini Weerasinghe"], "author": ["Imalka Karunanayaka"]}
+{"date": ["06/20/2015"], "title": ["IUC 2015 | Rowing: \"Caught the Snitch, Yet Lost the Match\""], "sponsor": [""], "editor": [""], "author": ["Sutharman Paskaran"]}
+{"date": ["06/11/2017"], "title": ["Japura and Jaffna break in to the finals!"], "sponsor": ["Millennium IT"], "editor": ["Kasuni Harshika"], "author": ["Piyumi Yashodha"]}
+{"date": ["07/02/2015"], "title": ["On your mark... Get Set\u2026 Go\u2026!"], "sponsor": [""], "editor": [""], "author": ["span>By\\xa0"]}
+{"date": ["08/04/2014"], "title": ["Peradeniya Makes Its Mark at Inter University Weightlifting"], "sponsor": [""], "editor": [""], "author": ["De Silva"]}
+{"date": ["05/31/2014"], "title": ["RUGBY: UOC Prevails WAY Power"], "sponsor": [""], "editor": [""], "author": ["Ravendran Arunothayan"]}
+{"date": ["07/25/2014"], "title": ["The Second Day of Inter University Basketball Tournament 2014"], "sponsor": [""], "editor": [""], "author": ["Seyon Mierunalan"]}
+{"date": ["09/08/2013"], "title": ["Sri Lankan Players Off to the \u2018Red Bull Campus Cricket-All Stars vs. India\u2019"], "sponsor": [""], "editor": [""], "author": ["Pramodya Senanayaka\\xa0"]}
+{"date": ["03/12/2014"], "title": ["ICBT Wins the Red Bull Campus Cricket National Title"], "sponsor": [""], "editor": [""], "author": ["Chinthaka Chandrasekara"]}
+{"date": ["05/24/2015"], "title": ["IUC 2015 | Elle: The Battle was Won by \u2018Home\u2019!"], "sponsor": [""], "editor": [""], "author": ["Ayoma Nilakshi"]}

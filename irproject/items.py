@@ -12,8 +12,11 @@ class IRProjectItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     title=scrapy.Field()
-    credentials=scrapy.Field()
+    #credentials=scrapy.Field()
     date=scrapy.Field()
-    rating=scrapy.Field()
-    reads=scrapy.Field()
+    #rating=scrapy.Field()
+    #reads=scrapy.Field()
+    author=scrapy.Field()
+    editor=scrapy.Field()
+    sponsor=scrapy.Field()
     pass
